@@ -1,2 +1,2 @@
 # project-landing-page
-Este é um projeto de desenvolvimento módulo base do curdo de Tecnologia da Escola DNC.
+Este é um projeto de desenvolvimento módulo base do curso de Tecnologia da Escola DNC.
